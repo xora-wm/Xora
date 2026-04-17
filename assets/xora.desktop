@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Xora
+Comment=Lightweight and feature-rich Wayland compositor
+Exec=xora
+Type=Application
+Keywords=wayland;compositor;wlroots;x11;
